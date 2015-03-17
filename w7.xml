@@ -25,4 +25,7 @@
   <project path="build" name="peat-psuwit/ubuntu-phone_build" remote="github" revision="phablet-vivid">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
+
+  <remove-project name="aosp/platform/frameworks/av" />
+  <project path="frameworks/av" name="peat-psuwit/ubuntu-phone_frameworks_av" remote="github" revision="phablet-vivid" />
 </manifest>
