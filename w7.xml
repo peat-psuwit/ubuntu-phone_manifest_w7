@@ -28,4 +28,7 @@
 
   <remove-project name="aosp/platform/frameworks/av" />
   <project path="frameworks/av" name="peat-psuwit/ubuntu-phone_frameworks_av" remote="github" revision="phablet-vivid" />
+
+  <remove-project name="aosp/platform/hardware/qcom/wlan" />
+  <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="github" revision="cm-11.0" />
 </manifest>
