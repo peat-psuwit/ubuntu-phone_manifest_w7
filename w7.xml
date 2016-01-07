@@ -32,4 +32,7 @@
 
   <remove-project name="aosp/platform/hardware/qcom/wlan" />
   <project path="hardware/qcom/wlan" name="CyanogenMod/android_hardware_qcom_wlan" remote="github" revision="cm-11.0" />
+
+  <remove-project name="CyanogenMod/android_bootable_recovery" />
+  <project path="bootable/recovery" name="peat-psuwit/ubuntu-touch_bootable_recovery" remote="github" revision="phablet-4.4.2_r1-peat" />
 </manifest>
