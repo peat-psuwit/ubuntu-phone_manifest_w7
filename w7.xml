@@ -3,7 +3,7 @@
 
   <remote name="github" fetch="https://github.com/" />
 
-  <project path="device/lge/w7" name="peat-psuwit/ubuntu-phone_device_lge_w7" remote="github" revision="phablet-vivid" />
+  <project path="device/lge/w7" name="peat-psuwit/ubuntu-phone_device_lge_w7" remote="github" revision="phablet-vivid-stable" />
   <project path="kernel/lge/msm8226" name="peat-psuwit/ubuntu-phone_kernel_lge_msm8226" remote="github" revision="phablet-vivid" />
 
   <project path="device/qcom/common" name="peat-psuwit/ubuntu-phone_device_qcom_common" remote="github" revision="phablet-vivid" />
