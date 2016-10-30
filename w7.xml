@@ -9,6 +9,7 @@
   <project path="device/qcom/common" name="peat-psuwit/ubuntu-phone_device_qcom_common" remote="github" revision="phablet-vivid" />
   <project path="external/f2fs-tools" name="CyanogenMod/android_external_f2fs-tools" remote="github" revision="cm-11.0" />
   <project path="vendor/sony/system/timekeep" name="peat-psuwit/timekeep" remote="github" revision="ubuntu-touch" />
+  <project path="vendor/lge" name="peat-psuwit/ubuntu-touch_proprietary_vendor_lge" remote="github" revision="phablet-4.4.2" />
 
   <remove-project name="aosp/platform/hardware/qcom/display" />
   <project path="hardware/qcom/display-caf-new" name="peat-psuwit/ubuntu-phone_hardware_qcom_display-caf-new" remote="github" revision="cm-11.0" />
